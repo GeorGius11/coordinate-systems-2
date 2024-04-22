@@ -17,5 +17,12 @@ Clone the repository to your local machine and install the required dependencies
 git clone https://github.com/GeorGius11/coordinate-systems-2.git
 cd coordinate-systems-2
 npm install
-node index.js
+```
+
+## Running the Project
+
+To run the program, navigate to the project directory and execute the following command:
+
+```bash
+node src/index.js
 ```
